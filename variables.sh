@@ -12,5 +12,5 @@ x=Pratik
 echo How are you $x
 
 # variable should not start with digit 
-y=9665360527
+y=0000000
 echo My mobile no. is $y
